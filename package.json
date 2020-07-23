@@ -64,7 +64,7 @@
     "nativescript-ui-listview": "7.0.4",
     "nativescript-ui-sidedrawer": "7.0.1",
     "ngx-moment": "^3.4.0",
-    "parse": "1.10.0",
+    "parse": "2.10.0",
     "reflect-metadata": "0.1.13",
     "rxjs": "6.5.2",
     "rxjs-compat": "6.5.2",
